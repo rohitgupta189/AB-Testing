@@ -17,7 +17,7 @@ variation_clicks = 4500
 sample_per_week = control_visits + variation_visits
 
 
-#Calculating the proportions
+#Calculating the click through rates
 
 control_ctr = control_clicks/control_visits
 
